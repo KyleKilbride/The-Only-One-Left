@@ -1,0 +1,149 @@
+//STORY//
+
+Welcome, you are a computer engineer that has been embarked on an adventure to inspect the far moon Triaxis that orbits around the plant D6. There has been a mysterious break in communications between the mining colony scavaging the planet your home base. Your objective was to get there, examin the issue, and report back, but something has gone terribly wrong. Once the ship started to orbit the moon and prepared for landing all the electronics fased out, like you had suffered an EMP attack. The ships vitals had became usless, flew off course and was floating endlessly further into deep space when you noticed people started to get sick. As more and more of the crew started to get sick you noticed, off in the distance a strange figure. A black hole. About 5 days away at current speed, but you are heading right for it. The whole crew has now died of this mysterious sickness, everyone but you and the Super Computer, Scarlett. Gain the trust from the computer to learn more about the strange sickness, the break in communication, engines failures, and the black hole before the ship, Scarlett, and yourself are twisted into time and space for all of eternity. 
+
+Main Menu
+
+1. Play game
+3. Exit Game
+
+"Hello?! Is any body left? Something has gone terribly wrong." *cough*cough* "I am starting to get sick too." You yell into the communications monitor. CRASH The ship is spinning around sending debris flying inside as you hang on to the front consol of the ship hoping for anything to hear you on the other side of the monitor. "HELLO?!" you yell again. "Hello Captain, what can I do for you?" you hear coming from the monitor. It appears that the only thing other than yourself on this ship is the AI computer Scarelett. 
+
+1. Ask to contact home base
+2. Demand to know whats going on
+3. Tell her you are not the captain
+
+	Entering 1 or 2 will give you:
+
+	I am only permited to take orders from the captain , to ensure your rank please enter the password
+	    
+	or
+
+	Do not make demands sir! I am merely here to aid the captain with intergalactic travels. If you are the catain please enter the password to veryify your rank.
+
+	1. Enter Password
+	2. Avoid entering password
+
+		Entering 1 will give you
+
+			ENTER PASSWORD
+
+				correct password move user on to winning
+
+Entering 3 OR avoiding password or incorrect password
+
+	Tell her you are not the captain: 
+
+		"Oh, well that is unfortunate" exclaims Scarlett, "Then there is nothing further I can help you with. Begin shut down sequence". You see her terminal starting to shut down, *cough**cough*. You are getting sicker by the minute and your ownly hope of surviving is to try to convince this computer you are worth giving access. How smart can she be?
+
+		1. Yell "Wait!"" 
+		2. *Smash your fist on the terminal*
+	    3. Hit the red button.
+
+	Avoid Entering Password:
+
+		"Oh, well that is unfortunate" exclaims Scarlett "I really thought you could have been the captain, I am of no use to you as you are no use to me without the proper credentials, begin shut down sequence." You see her terminal starting to shut down, *cough**cough*. You are getting sicker by the minute and your ownly hope of surviving is to try to convince this computer you are worth giving access. How smart can she be?
+
+		1. Yell "Wait!"" 
+		2. *Smash your fist on the terminal*
+	    3. Hit the red button.
+
+	Incorrect password:
+
+		try again?
+
+			yes
+
+				incorrect x 3
+
+					intruder allert emergency shutdown innitiated, self destruct in 3..2..1
+
+						hit enter
+
+							game over
+			no
+
+				you do not attempt the password again in case the security protocols initiate. "Oh, well that is unfortunate" exclaims Scarlett "I really thought you could have been the captain, I am of no use to you as you are no use to me without the proper credentials, begin shut down sequence." You see her terminal starting to shut down, *cough**cough*. You are getting sicker by the minute and your ownly hope of surviving is to try to convince this computer you are worth giving access. How smart can she be?
+
+				1. Yell "Wait!"" 
+				2. *Smash your fist on the terminal*
+			    3. Hit the red button.
+
+Yell "Wait!"
+	
+	You see the terminal screen come back to life. "What can I help you with? do you have the password yet?" Scarlett says. "No I do not, but you are an intelligent being, can you tell me what is going on on this ship? How is everyone dying? Am I dying too? Can we stop the ship before it hits that black hole?" you ask her frantically. "I have been programmed to be observant to all the conditions in the ship, but I am only able to report to the proper rank. Please Enter the password." You are frustrated and have very little time left, the password must be somewhere. 
+
+	1. search bodies
+	2. search storage
+	3. yell at scarlett
+
+	search storage
+
+		you find nothing
+
+		1.search bodies
+		2.yell at scarlett
+
+		search bodies
+
+			you find the captains wallet
+
+			1. search captains wallet
+
+				inside the captains wallet you find pictures of his family, poor guy. In the deepest part of the wallet there is a little red peice of paper. FOR EMERGANCY. on it you only see the words, eleventhdoctor. I wonder what that could be? you think to yourself
+
+					1. Attempt Password
+
+						enter password
+
+							pass or fail
+
+								if input is eleventh doctor
+
+			welcome captain, it is good to have you back, what may I assist you with?
+
+			1. tell me about the sickness
+			2. tell me about the ship and communications
+
+				tell me about the outage in communication 
+
+					"captain, the data that I have collected as we passed the mining colony depicts a large amount of a foreign gass called hydromagnicide, that is invisible and tastless and has became airborn when the colony drilled into the center of the moon." you learn from Scarlett. "Due to its magnetic properties, it has corrupted most of the computers hardware. I have survived due to my superior hardware, resistant to EMP and magnetic attacks."	
+
+						1. tell me about the sickness			
+
+				tell me about the sickness
+
+					"captain, the data that I have collected as we passed the mining colony depicts a large amount of a foreign gass called hydromagnicide, that is invisible and tastless and has became airborn when the colony drilled into the center of the moon." you learn from Scarlett. "When breathed it collapses the lungs due to its density, blocking the instake of oxygen and suffocating you, you are lucky to be alivecaptain." I am lucky alright, you think to yourself. 
+
+					1. How can we cure this?
+
+						"There is no known cure, at this rate the whole in the moon will leak the gas and in 48 hours it will reach the planet D6, whiping out its population in a matter of hours." Scarlett explains. You start to panic. It becomes overwhelmingly obvious that there is only one option, you must save the planet. 
+
+						1. How can we save the planet?
+						2. Be a coward and let the ship fly into the black hole. 					
+
+						be a coward
+
+							you lay on your back and wait for your and the planets enevitable death. GAME OVER
+
+						save the planet?
+
+							"By my calculation captain, we might be able to spark the engines for just long enough to give ourselves a perfect trajectory into the hole the has is excreting from, at the speed we will be traveling it should collapse it and stop the gas from reaching the planet." Great! a suicide mission, but it is up to you to save the people of the planet D6, it is your destiny. 
+
+								1. spark engines
+								2. freeze up in fear.
+
+								freeze
+
+									it becomes too late to spark the engines, you get sucked in by the gravitational pull of the black hole. GAME OVER.
+
+								spark engines
+
+									It works! you are able to reset the rout of the ship. You are gaining speed exponentially. "Goodbye Scarlett" you say to the terminal. "Goodbye Captain" Scarletts screen goes blank.
+
+									Thank you for playing. 
+
+
+		yell at scarlett
+
+			emergancy shut down, shutting down to prevent loss of critical content. GAME OVER

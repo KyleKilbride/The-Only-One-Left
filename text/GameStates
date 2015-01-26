@@ -1,0 +1,20 @@
+//GAME STATES//
+
+0 - Intro and Main menu
+1 - Exit screen
+2 - Story beginning
+3 -	requesting password
+4 -	password entry
+5 -	password retry
+6 - terminal shutting down
+7 - yelling wait
+8 - what to search
+9 - error state game over for yelling at scarlett
+10 -searching the captain wallet
+11 -correct password
+12 -about the sickness 
+13 - how can we cure it
+14 - how can we save the planet?
+96 - error state freeze up
+97 - error state you coward and die
+98 - Game Over wrong pass

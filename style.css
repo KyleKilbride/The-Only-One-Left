@@ -1,0 +1,48 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700);
+
+@font-face{
+	font-family:quicksand;
+	src:url(../fonts/quicksand-regular.otf);	
+}
+
+html,
+button,
+select,
+textarea {
+    color: #222;
+	font-family: 'Inconsolota', sans-serif;
+}
+
+#terminal{
+	background-image: url("images/space.jpg");
+	background-size: cover;
+}
+element.style {
+pointer-events: none;
+}
+#titleText{
+	color: white;
+	margin: 0 auto;
+	margin-top: 25px;
+	width: 800px;
+	font-size: 30px;
+	text-align: center;
+}
+
+#screenContainer{
+	border-style: solid;
+	border-width: 1px;
+	border-color: white;
+	width: 854px;
+	height: 480px;
+	position: fixed;
+    left: 50%;
+    top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+#gameCanvas{
+	width: 854px;
+	height: 480px;
+	background: black;
+}
