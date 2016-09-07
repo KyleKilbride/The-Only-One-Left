@@ -1,5 +1,4 @@
 Created by Kyle Kilbride
-For Science Fiction Elective at Algonquin College
 
 Known Bugs:
 
